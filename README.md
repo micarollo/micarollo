@@ -1,6 +1,6 @@
 
-
-![Hi there!](https://user-images.githubusercontent.com/74556711/183245686-a0498924-22eb-4003-9e84-849768c9afbc.gif)
+<img align="center" width="600px" heigth="200px" src="https://user-images.githubusercontent.com/74556711/183245686-a0498924-22eb-4003-9e84-849768c9afbc.gif">
+<!--![Hi there!](https://user-images.githubusercontent.com/74556711/183245686-a0498924-22eb-4003-9e84-849768c9afbc.gif)-->
 
 ## 💻 About me
 
