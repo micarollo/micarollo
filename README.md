@@ -10,9 +10,9 @@
 
 ## 🚀 Coding
 
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-<img align="left" width="26px" src="https://user-images.githubusercontent.com/74556711/183246822-8f900602-b490-4ca6-9cc5-208e60f3ea34.svg">
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,c,git,github)](https://skillicons.dev)
+
+
 
 [website]: https://www.42barcelona.com/es
 
