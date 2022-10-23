@@ -1,7 +1,8 @@
 
-![Hi there!](https://user-images.githubusercontent.com/74556711/183245686-a0498924-22eb-4003-9e84-849768c9afbc.gif)
+[Hi there!](https://user-images.githubusercontent.com/74556711/197391865-65211fac-e71a-47d2-a43d-cdb3752b011c.gif)
 
-## 👨🏽‍💻 About me
+## 👨🏽‍💻 About me!
+
 
 - 👋 I’m @micarollo
 - 👀 I’m interested in 'Sports and technology' and Machine Learning.
