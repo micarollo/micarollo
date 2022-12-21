@@ -8,7 +8,9 @@
 - 👋 I’m @micarollo
 - 👀 I’m interested in 'Sports and technology' and Machine Learning.
 - 🌱 I’m currently studying programming at [42 BARCELONA][website]
+<!---
 - <img width="20px" src="https://user-images.githubusercontent.com/74556711/183246271-f02834a8-fcbc-46ce-b86d-88f589a420d0.svg"> My Cursus proyects https://github.com/micarollo/42-Cursus
+--->
 
 ## 🚀 Coding
 
