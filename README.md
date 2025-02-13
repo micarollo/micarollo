@@ -2,7 +2,7 @@
 <!---
 ![Hi there!](https://user-images.githubusercontent.com/74556711/197391865-65211fac-e71a-47d2-a43d-cdb3752b011c.gif)
 --->
-## 👨🏽‍💻 About me!
+## About me!
 
 
 - 👋 I’m @micarollo
