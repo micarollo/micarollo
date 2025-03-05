@@ -14,7 +14,7 @@
 
 ## 🚀 Coding Languajes
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,arduino,js,react,django,html,css,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,arduino,js,react,django,html,css,bash,git,github)](https://skillicons.dev)
 
 
 
