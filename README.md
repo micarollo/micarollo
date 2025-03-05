@@ -12,7 +12,7 @@
 - <img width="20px" src="https://user-images.githubusercontent.com/74556711/183246271-f02834a8-fcbc-46ce-b86d-88f589a420d0.svg"> My Cursus proyects https://github.com/micarollo/42-Cursus
 --->
 
-## 🚀 Coding
+## 🚀 Coding Languajes
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,arduino,js,react,django,html,css,git,github)](https://skillicons.dev)
 
